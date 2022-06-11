@@ -1,0 +1,55 @@
+.secondaryContainer{
+    display:flex;
+    justify-content: space-between;
+    margin-top:2em; 
+}
+
+.firstContainer{
+    border-bottom: 1px solid #dadce0;
+    padding-top:0.5em
+}
+
+.left{
+    display:flex;
+    justify-content: space-between;
+    width:20%;
+}
+
+.left span{
+    cursor:pointer;    
+}
+
+.center span{
+    cursor:pointer;  
+}
+
+.right{
+    display:flex;
+    justify-content: space-between;
+    width:20%;
+    margin-right: 2em;
+}
+
+.right span{
+    cursor:pointer
+}
+
+span:hover{
+    text-decoration: underline;   
+}
+
+
+
+
+.generalContainer{
+    margin-top: 15.5em;
+    background-color:#f5f8fb;
+    padding:0.5em;
+    color: #70757a;
+
+}
+
+
+
+
+
